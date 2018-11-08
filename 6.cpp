@@ -1,3 +1,13 @@
+// Problem F. 77040. Winner
+//  Input file: Output file: Time limit: Memory limit:
+// standard input standard output 1 second
+// 256 megabytes
+// Bekzat is a jury of olympiad. In order to define winners, he wants to determine a winner of this olympiad. But he hasn’t time and needs your help. You have to find a winner and print it. If there are several winners print latest encountered one. Look at an example.
+// Input
+// In the first line given (1 ≤ n ≤ 1000), number of participants. The next n lines given surnames, names of students and their score.
+// Output
+// Print winner’s surname, name and score.
+
 #include <iostream>
 #include <map>
 #include <string>
